@@ -8,4 +8,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="String\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="String\" />
+  </ItemGroup>
 </Project>
