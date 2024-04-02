@@ -10,8 +10,18 @@
 
   <ItemGroup>
     <None Remove="String\" />
+    <None Remove="LeetCodeOwn\" />
+    <None Remove="LeetCodeOwn\DailPractice\" />
+    <None Remove="LeetCodeOwn\DailPractice\Easy\" />
+    <None Remove="LeetCodeOwn\DailPractice\Medium\" />
+    <None Remove="LeetCodeOwn\DailPractice\Hard\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="String\" />
+    <Folder Include="LeetCodeOwn\" />
+    <Folder Include="LeetCodeOwn\DailPractice\" />
+    <Folder Include="LeetCodeOwn\DailPractice\Easy\" />
+    <Folder Include="LeetCodeOwn\DailPractice\Medium\" />
+    <Folder Include="LeetCodeOwn\DailPractice\Hard\" />
   </ItemGroup>
 </Project>

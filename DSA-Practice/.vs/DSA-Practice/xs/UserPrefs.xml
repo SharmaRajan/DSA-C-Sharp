@@ -1,4 +1,32 @@
 ﻿<Properties StartupConfiguration="{1D23B194-D971-4257-AFE7-E01CC91F723C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DSA-Practice/LeetCodeOwn/DailPractice/Hard/SubArrKDistinct.cs">
+    <Files>
+      <File FileName="DSA-Practice/LeetCodeOwn/DailPractice/Hard/SubArrKDistinct.cs" Line="14" Column="28" />
+      <File FileName="DSA-Practice/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DSA-Practice" expanded="True">
+            <Node name="DSA-Practice" expanded="True">
+              <Node name="LeetCodeOwn" expanded="True">
+                <Node name="DailPractice" expanded="True">
+                  <Node name="Hard" expanded="True">
+                    <Node name="SubArrKDistinct.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.DSA-Practice FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.DSA-Practice PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

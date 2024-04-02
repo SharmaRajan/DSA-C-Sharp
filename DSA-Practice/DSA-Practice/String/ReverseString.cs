@@ -10,6 +10,7 @@ namespace DSA_Practice.String
 			{
 				Console.Write(str[i]);
 			}
+			Console.WriteLine();
 		}
 	}
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rajansharma/Documents/GitHub/DSA-C-Sharp/DSA-Practice/DSA-Practice/DSA-Practice.csproj": {}
+    "/Users/rajansharma/Documents/GitHub-Repos/DSA-C-Sharp/DSA-Practice/DSA-Practice/DSA-Practice.csproj": {}
   },
   "projects": {
-    "/Users/rajansharma/Documents/GitHub/DSA-C-Sharp/DSA-Practice/DSA-Practice/DSA-Practice.csproj": {
+    "/Users/rajansharma/Documents/GitHub-Repos/DSA-C-Sharp/DSA-Practice/DSA-Practice/DSA-Practice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rajansharma/Documents/GitHub/DSA-C-Sharp/DSA-Practice/DSA-Practice/DSA-Practice.csproj",
+        "projectUniqueName": "/Users/rajansharma/Documents/GitHub-Repos/DSA-C-Sharp/DSA-Practice/DSA-Practice/DSA-Practice.csproj",
         "projectName": "DSA-Practice",
-        "projectPath": "/Users/rajansharma/Documents/GitHub/DSA-C-Sharp/DSA-Practice/DSA-Practice/DSA-Practice.csproj",
+        "projectPath": "/Users/rajansharma/Documents/GitHub-Repos/DSA-C-Sharp/DSA-Practice/DSA-Practice/DSA-Practice.csproj",
         "packagesPath": "/Users/rajansharma/.nuget/packages/",
-        "outputPath": "/Users/rajansharma/Documents/GitHub/DSA-C-Sharp/DSA-Practice/DSA-Practice/obj/",
+        "outputPath": "/Users/rajansharma/Documents/GitHub-Repos/DSA-C-Sharp/DSA-Practice/DSA-Practice/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/rajansharma/.nuget/NuGet/NuGet.Config"
